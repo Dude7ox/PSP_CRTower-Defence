@@ -125,7 +125,7 @@ the script in the same 5×9 style.
 ## Credits
 
 - Game design, original HTML version and art direction: **dude7ox**
-- PSP port: built for **dude7ox** with the PSPSDK
+- PSP port: built by **Deepseek 4.1 Flash** with the PSPSDK
 - Font: hand-drawn Latin glyphs from the project's `font.png`
 
 ## License
